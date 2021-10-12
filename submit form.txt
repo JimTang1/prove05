@@ -1,0 +1,30 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+https://github.com/JimTang1/prove04
+
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://cse341-prove04.herokuapp.com/
+
+3. Briefly list and describe the elements of the application that are functioning. 
+Change all the connection in to mongoose and my own style.
+Connet to mongodb.
+How to connect to heroku with mongoDB
+
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+No
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+How to connect to MongoDB!!!! It is so cool to see how thing from the really basic to more easy way to do it..
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+Maybe need more practice or video about how node.js connect to MongoDB. I believe he explains that in the SQL lesson, but I believe most of us skip those two lessons. Since that, it is confusing how they connect to each other and just start working on the project.
+
+7. Please select the category you feel best describes your assignment:
+   5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+I finished all the requirements and provide a better user experience. I also spend a lot of time studying SQL and MongoDB in order to help myself have a better understanding.
+
